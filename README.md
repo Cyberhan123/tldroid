@@ -1,4 +1,4 @@
-## tldroid
+## tldroid（Cyberhan edit）
 [tldr](https://github.com/tldr-pages/tldr) Android client written in [Kotlin](https://kotlinlang.org/), uses [data binding](http://developer.android.com/tools/data-binding/guide.html), [Constraint Layout](http://tools.android.com/tech-docs/layout-editor), tested with [Android testing support library](https://google.github.io/android-testing-support-library/), compatible with Android 2.3 and up.
 
 
@@ -8,6 +8,7 @@
 
 ### Setup
 **Requirements**
+- all well chanage
 - Latest Android SDK tools
 - Latest Android platform tools
 - Android SDK Build tools 25.0.3
@@ -29,8 +30,7 @@
     ./gradlew :app:testDebug
 
 ### License
-    Copyright 2015 Ha Duy Trung
-
+    Copyright 2015 Cyberhan
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
